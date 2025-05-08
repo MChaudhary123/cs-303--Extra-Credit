@@ -9,7 +9,7 @@ This project provides a C++ class, `Evaluator`, that can parse and evaluate infi
 * **Evaluator.h:** This header file contains the declaration of the `Evaluator` class.
 * **Evaluator.cpp:** This source file contains the implementation of the `Evaluator` class.
 * **main.cpp:** This file contains the `main` function that demonstrates the usage of the `Evaluator` class with test cases and an interactive mode.
-* **README.md:** This file provides information about the project.
+
 
 ## Features
 
